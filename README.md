@@ -24,7 +24,7 @@ Avoid abstractions you don't really need. Avoid cargo cult programming; strive t
 
 ## 6. Good software is unobtrusive
 
-Be ruthless in removing any obstacle between your users and the best value your application can provide to them.
+Be ruthless in removing any obstacle between your users and the best value thay can get from your application.
 
 Well designed applications are the fruit of many failed iterations, each proofed by real users. Be sure to observe your users as they interact with your application. Take note of any friction and frustation in using it. Their feedback is the most precious information you can get. Treat it honestly.
 
