@@ -4,7 +4,7 @@
 
 Rebuild old software using new technology. Build new software using old and stable technology.
 
-Strive to bring something new into the world, even when building a clone. Observe the users for inspiration: what do they need next? 
+Strive to bring something new into the world, even when building a clone. Observe the users for inspiration. Try to anticipate them: what will they need next? 
 
 ## 2. Good software is useful
 
