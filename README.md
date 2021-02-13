@@ -2,7 +2,7 @@
 
 ## 1. Good software is innovative
 
-Rebuild software using new technology. Build new software using stable technology.
+Rebuild old software using new technology. Build new software using old and stable technology.
 
 ## 2. Good software is useful
 
@@ -30,7 +30,7 @@ A well designed application is the fruit of many failed iterations that have bee
 
 ## 7. Good software is long-lasting
 
-
+Future proof your software by thinking about how its dependencies (browser environments, operating systems, etc.) will evolve during its lifetime. Avoid coupling it to perishable bindings. Offer to bundle its dependencies so it can better resist the entropy of innovation. Release its source code under a Free and Open Source so it can be rebuilt and enjoyed in the future on that platforms that haven't been yet invented.
 
 ## 8. Good software is thorough down to the last detail
 
