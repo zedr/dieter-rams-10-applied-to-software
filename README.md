@@ -40,7 +40,7 @@ Just like playing chess against yourself, always have a sandbox environment wher
 
 ## 9. Good software is environmentally friendly
 
-Avoid wasting computing power or storage. Consider the energy profile of your application as it grows. Use only what you need and give back what you don't need anymore. If your application isn't performing useful work it should not be consuming resources: it should be inert. 
+Avoid wasting computing power or storage. Consider the energy profile of your application as it grows. Use only what you need and give back the rest. If your application isn't performing useful work it should not be consuming resources: it should be inert. 
 
 ## 10. Good software is as little software as possible
 
