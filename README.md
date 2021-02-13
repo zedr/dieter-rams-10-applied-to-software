@@ -16,7 +16,7 @@ Take a moment to step back and look at your code. It should look beautiful to yo
 
 ## 4. Good software is understandable
 
-Code isn't "clever" if no-one understands it. Clever code anticipates the questions and doubts of its maintainers. It is straightforward and easy to comprehend, to others and your future self. It should be written firstly for people, and then for machines.
+Code isn't "clever" if no-one understands it. Clever code anticipates the questions and doubts of its maintainers. It is straightforward to others and your future self. It should be written firstly for people, and then for machines. Boring is better than surprising.
 
 ## 5. Good software is honest
 
