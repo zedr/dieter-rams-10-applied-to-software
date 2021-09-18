@@ -20,13 +20,13 @@ Code isn't "clever" if no-one understands it. Clever code anticipates the questi
 
 ## 5. Good software is honest
 
-Avoid abstractions you don't really need. Avoid cargo cult programming; strive to really understand the real reason for everything that you write in code. Be bold in exposing software metrics you are unconfortable with, such as test coverage and anti-patterns. Let them break the build so you can find time or extra help to fix them.
+Avoid abstractions you don't really need. Avoid cargo cult programming; strive to really understand the real reason for everything that you write in code. Be bold in exposing software metrics you are uncomfortable with, such as test coverage and anti-patterns. Let them break the build so you can find time or extra help to fix them.
 
 ## 6. Good software is unobtrusive
 
-Be ruthless in removing any obstacle between your users and the best value thay can get from your application.
+Be ruthless in removing any obstacle between your users and the best value they can get from your application.
 
-Well designed applications are the fruit of many failed iterations, each proofed by real users. Be sure to observe your users as they interact with your application. Take note of any friction and frustation in using it. Their feedback is the most precious information you can get. Treat it honestly.
+Well-designed applications are the fruit of many failed iterations, each proofed by real users. Be sure to observe your users as they interact with your application. Take note of any friction and frustration in using it. Their feedback is the most precious information you can get. Treat it honestly.
 
 ## 7. Good software is long-lasting
 
@@ -34,13 +34,13 @@ Future proof your software by planning for how its dependencies (browser environ
 
 ## 8. Good software is thorough down to the last detail
 
-Think deeply about every action your application performs. Ensure that it gracefully handles every error condition you can fathom, e.g. memory and storage exhaustion, race conditions, network errors, lack of permissions, etc.
+Think deeply about every action your application performs. Ensure that it gracefully handles every error condition you can fathom, e.g., memory and storage exhaustion, race conditions, network errors, lack of permissions, etc.
 
 Just like playing chess against yourself, always have a sandbox environment where you become the user. Be as strict and demanding with your application as you are towards other people's.
 
 ## 9. Good software is environmentally friendly
 
-Avoid wasting computing power or storage. Consider the energy profile of your application as it grows. Use only what you need and give back the rest. If your application isn't performing useful work it should not be consuming resources: it should be inert. 
+Avoid wasting computing power or storage. Consider the energy profile of your application as it grows. Use only what you need and give back the rest. If your application isn't performing useful work, it should not be consuming resources: it should be inert. 
 
 ## 10. Good software is as little software as possible
 
