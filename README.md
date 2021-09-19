@@ -49,4 +49,4 @@ Less code is always better. Be terse and expressive. Comments should be exceptio
 Resist the urge to over-engineer. Once your application is "barely good enough", it is complete. Completeness derives from (1) absence of defects, (2) conformance to the agreed requirements, (3) fitness for purpose. You need all three (and it's a lot of work) but nothing more.
 
 # Other attempts
-1. "Ten Principles for Good Code", Charles-Axel Dein. https://www.dein.fr/2015-10-01-10-principles-for-good-https://www.dein.fr/2015-10-01-10-principles-for-good-code.htmlcode.html
+1. ["Ten Principles for Good Code", Charles-Axel Dein.](https://www.dein.fr/2015-10-01-10-principles-for-good-https://www.dein.fr/2015-10-01-10-principles-for-good-code.htmlcode.html)
