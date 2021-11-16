@@ -47,3 +47,6 @@ Avoid wasting computing power or storage. Consider the energy profile of your ap
 Less code is always better. Be terse and expressive. Comments should be exceptional and treated like code. 
 
 Resist the urge to over-engineer. Once your application is "barely good enough", it is complete. Completeness derives from (1) absence of defects, (2) conformance to the agreed requirements, (3) fitness for purpose. You need all three (and it's a lot of work) but nothing more.
+
+# Other attempts
+1. ["Ten Principles for Good Code", Charles-Axel Dein.](https://www.dein.fr/2015-10-01-10-principles-for-good-code.html)
